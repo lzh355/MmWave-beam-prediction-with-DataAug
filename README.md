@@ -24,6 +24,5 @@ python train.py --aug_type=Noise --sigma=0.3
 python train.py --aug_type=Label --Z0=2.0 --Zf=8.0 --k=6.0
 ~~~
 
-## Note:
-1. Environment: Pytorch, Python 3.8.0., MATLAB R2023b.
-2. The files getpos.m, hatchfill2.m, and legendflex.m are utilized to assist in drawing the results.
+
+Environment: Pytorch, Python 3.8.0., MATLAB R2023b.
